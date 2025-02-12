@@ -92,6 +92,14 @@ Our work is based on the preceding frameworks [MOTION](https://github.com/encryp
    make
    ```
 
+### Running tests
+
+------
+
+```
+./run_tests.sh
+```
+
 ### Configurations
 
 ------
@@ -104,13 +112,4 @@ chmod +x throttle.sh
 ```
 
 \<options\> can be 'del', 'wan' or 'lan'. 
-
-### Running tests
-
-------
-
-```
-chmod +x throttle.sh
-./run_tests.sh
-```
 
