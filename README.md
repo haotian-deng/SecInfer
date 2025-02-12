@@ -1,5 +1,5 @@
 # SecInfer
-Implementation for the protocols described in IEEE ICC 2025: `SecInfer: Secure and Efficient Model Inference on Vertically Partitioned Data`.
+Implementation for the protocols described in IEEE ICC 2025: SecInfer: Secure and Efficient Model Inference on Vertically Partitioned Data.
 
 Our work is based on the preceding frameworks [MOTION](https://github.com/encryptogroup/MOTION) and [ScalableMixedModeMPC](https://github.com/radhika1601/ScalableMixedModeMPC/tree/master).
 
