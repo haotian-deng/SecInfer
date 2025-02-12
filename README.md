@@ -40,6 +40,8 @@ Our work is based on the preceding frameworks [MOTION](https://github.com/encryp
 
 ### Building SecInfer
 
+------
+
 1. Clone the base framework MOTION git repository by running:
 
    ```ssh
@@ -92,6 +94,8 @@ Our work is based on the preceding frameworks [MOTION](https://github.com/encryp
 
 ### Configurations
 
+------
+
 You can run the following commands before you run the tests.
 
 ```
@@ -102,6 +106,8 @@ chmod +x throttle.sh
 \<options\> can be 'del', 'wan' or 'lan'. 
 
 ### Running tests
+
+------
 
 ```
 chmod +x throttle.sh
